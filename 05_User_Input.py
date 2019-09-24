@@ -1,2 +1,2 @@
 variable = input("What is your name?: ")
-print("Hello " + variable + " !")
+print("Hello " + variable + "!")
