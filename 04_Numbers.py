@@ -27,7 +27,3 @@ print(floor(7.8))
 print(ceil(7.8))
 print(sqrt(9))
 print(sqrt(my_var))
-
-variable = input("What is your name?: ")
-print("Hello" + variable + "!")
-
